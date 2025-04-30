@@ -5,9 +5,9 @@
 
 To install the conda environment:
 ```
-cd fed-multimodal
-conda create --name fed-multimodal python=3.9
-conda activate fed-multimodal
+cd FedMultimodal-
+conda create --name fed-multimodal+ python=3.9
+conda activate fed-multimodal+
 ```
 
 Then pip install the package:
