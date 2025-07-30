@@ -1,5 +1,5 @@
 
-### Stripped down version of FedMultiomodal to reproduce the improved results for CRISIS-MMD Dataset for FedMultimodal+ (Image and Text)
+### Stripped down version of FedMultimodal to reproduce the improved results for CRISIS-MMD Dataset for FedMultimodal+ (Image and Text)
 
 ### Installation
 
